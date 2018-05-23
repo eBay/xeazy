@@ -24,11 +24,11 @@ xeazy will produce the xeazy-output folder which contains dashboard.html <br>
 
 Summary of the Test Suites
 
-![xeazy summary html](https://github.corp.ebay.com/eBayMobileQuality/xeazy/blob/master/src/Documentation/summary.png?raw=true) <br>
+![xeazy summary html](src/Documentation/summary.png) <br>
 
 Detailed reports with steps
 
-![xeazy steps html](https://github.corp.ebay.com/eBayMobileQuality/xeazy/blob/master/src/Documentation/steps.png?raw=true)
+![xeazy steps html](src/Documentation/steps.png)
 
 
 ## LICENSE
