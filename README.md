@@ -3,7 +3,7 @@ Xeazy is a HTML Report Generator for xctest designed to be piped with 'xcodebuil
 
 
 ## Download
-[![Latest version](https://img.shields.io/gem/dv/rails/stable.svg)](https://github.corp.ebay.com/eBayMobileQuality/xeazy/blob/master/src/dist)
+[![Latest version](https://img.shields.io/gem/dv/rails/stable.svg)](src/dist)
 
 ## Usage
 ``` bash
